@@ -1,16 +1,16 @@
 # 🌏 TOP 10 GitHub Certifications - Asia
 
-> Last updated: March 18, 2026 at 02:12 UTC
+> Last updated: March 18, 2026 at 20:48 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
 | Rank | Name | Badges | Company | Country |
 |------|------|--------|---------|---------|
-| 🥇 #1 | [stephie Mercy](https://www.credly.com/users/stephie-mercy/badges) | 14 | Ivalue Infosolutions Limited | India |
-| 🥈 #2 | [Ramesh Kumar Dasari](https://www.credly.com/users/ramesh.dasari/badges) | 12 | Xebia | India |
-| 🥉 #3 | [Hoysala Garudanagiri](https://www.credly.com/users/hoysala-garudanagiri/badges) | 11 | Canarys Automations Limited | India |
-|  | [Rajesh C N](https://www.credly.com/users/rajesh-c-n/badges) | 11 | Xebia | India |
-| #5 | [Emre Ozan Memis](https://www.credly.com/users/emre-ozan-memis/badges) | 10 |  | Turkey |
+| 🥇 #1 | [stephie Mercy](https://www.credly.com/users/stephie-mercy/badges) | 13 | Ivalue Infosolutions Limited | India |
+| 🥈 #2 | [Ramesh Dasari](https://www.credly.com/users/ramesh.dasari/badges) | 12 | Xebia | India |
+| 🥉 #3 | [Rajesh C N](https://www.credly.com/users/rajesh-c-n/badges) | 11 | Xebia | India |
+| #4 | [Emre Ozan Memis](https://www.credly.com/users/emre-ozan-memis/badges) | 10 |  | Turkey |
+|  | [Hoysala Garudanagiri](https://www.credly.com/users/hoysala-garudanagiri/badges) | 10 | Canarys Automations Limited | India |
 | #6 | [Adithya MS](https://www.credly.com/users/adithya-ms.f90708a6/badges) | 7 | Canarys Automations Limited | India |
 |  | [Niranjana K](https://www.credly.com/users/niranjana-koni/badges) | 7 | Canarys Automations Limited | India |
 | #8 | [Abededeen Asra](https://www.credly.com/users/abededeen-asra/badges) | 6 |  | India |
@@ -27,10 +27,10 @@
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 12,187
-- **Total Badges Earned**: 14,338
+- **Total Certified Users**: 12,189
+- **Total Badges Earned**: 14,336
 - **Average Badges per User**: 1.18
-- **Highest Badge Count**: 14
+- **Highest Badge Count**: 13
 
 ---
 
